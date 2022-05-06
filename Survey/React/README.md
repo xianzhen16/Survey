@@ -12,6 +12,7 @@ npm install
 npm start
 
 ```
-First run the node back-end server.
+First run the node back-end server by following the Readme in node file.
+Then run this file with npm start.
 
 Then open [http://localhost:8081](http://localhost:8081) to view it in the browser.
